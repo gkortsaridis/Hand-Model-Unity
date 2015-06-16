@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 7fc272aaecf1f4124aa030fa79c4f1fe
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Circle
+    100004: //RootNode
+    100006: Index1
+    100008: Index2
+    100010: Index3
+    100012: IndexGoal
+    100014: IndexPointer
+    100016: IndexStretch
+    100018: Master
+    100020: Middle1
+    100022: Middle2
+    100024: Middle3
+    100026: MiddleGoal
+    100028: Middlepointer
+    100030: MiddleStretch
+    100032: Palm_L
+    100034: Palm_R
+    100036: Pinky1
+    100038: Pinky2
+    100040: Pinky3
+    100042: PinkyGoal
+    100044: PinkyPointer
+    100046: PinkyStretch
+    100048: Ring1
+    100050: Ring2
+    100052: Ring3
+    100054: RingGoal
+    100056: RingPointer
+    100058: RingStretch
+    100060: Thumb1
+    100062: Thumb2
+    100064: Thumb3
+    100066: ThumbGoal
+    100068: ThumbPointer
+    100070: ThumbStretch
+    400000: Armature
+    400002: Circle
+    400004: //RootNode
+    400006: Index1
+    400008: Index2
+    400010: Index3
+    400012: IndexGoal
+    400014: IndexPointer
+    400016: IndexStretch
+    400018: Master
+    400020: Middle1
+    400022: Middle2
+    400024: Middle3
+    400026: MiddleGoal
+    400028: Middlepointer
+    400030: MiddleStretch
+    400032: Palm_L
+    400034: Palm_R
+    400036: Pinky1
+    400038: Pinky2
+    400040: Pinky3
+    400042: PinkyGoal
+    400044: PinkyPointer
+    400046: PinkyStretch
+    400048: Ring1
+    400050: Ring2
+    400052: Ring3
+    400054: RingGoal
+    400056: RingPointer
+    400058: RingStretch
+    400060: Thumb1
+    400062: Thumb2
+    400064: Thumb3
+    400066: ThumbGoal
+    400068: ThumbPointer
+    400070: ThumbStretch
+    4300000: Circle
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Circle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
